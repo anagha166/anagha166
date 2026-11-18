@@ -1,4 +1,4 @@
-## Hi there 👋
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=anagha166)
 
 <!--
 **anagha166/anagha166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
