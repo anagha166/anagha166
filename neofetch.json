@@ -4,9 +4,8 @@
   "coloredImage": true,
   "imageScale": 1,
   "removeBackground": false,
-  "backgroundColor": "#F7F5FF, #151522",
-  "separatorColor": "#D8D0EB, #45405C",
-  "sections": [
+  "backgroundColor": "#F7F5FF, #151522"
+}
     {
       "title": "{{username}}@github",
       "titleColor": {
