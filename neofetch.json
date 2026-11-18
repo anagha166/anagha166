@@ -1,131 +1,143 @@
-
 {
   "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/profilepic.png",
   "coloredImage": true,
-  "imageScale": 0.8,
+  "imageScale": 2,
+  "imageOffsetX": 5,
+  "imageOffsetY": 11,
   "removeBackground": false,
   "backgroundColor": "#F7F5FF, #151522",
+  "separatorColor": "#8E74B8, #8D78AD",
   "sections": [
     {
       "title": "{{username}}@github",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
-        "line": "#B8A5D6, #655580"
+        "line": "#8E74B8, #8D78AD"
       },
       "fields": [
         {
           "key": "Name",
-          "value": "Anagha Kamath"
+          "value": "Anagha Kamath",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Location",
-          "value": "{{location}}"
+          "value": "{{location}}",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Education",
-          "value": "UC San Diego · Math-CS + Cognitive Science"
-        },
-        {
-          "key": "Minor",
-          "value": "Cognitive Science"
+          "value": "UC San Diego · Math-CS + Cognitive Science",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Focus",
-          "value": "HCI, UX & Product Design"
-        }
-      ]
-    },
-    {
-      "title": "- Experience",
-      "fields": [
+          "value": "HCI, UX & Product Design",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
         {
           "key": "HCI Research",
-          "value": "The Design Lab · UCSD"
+          "value": "The Design Lab · UCSD",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "UX & Marketing",
-          "value": "Data Science Student Society"
+          "value": "Data Science Student Society",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "3D / VR",
-          "value": "Systems Neuroscience Lab"
+          "value": "Systems Neuroscience Lab",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     },
     {
       "title": "- Interests",
+      "titleColor": {
+        "text": "#7356A5, #C5A8FF",
+        "line": "#8E74B8, #8D78AD"
+      },
       "fields": [
         {
           "key": "Research",
-          "value": "Human-Centered AI, HCI"
+          "value": "Human-Centered AI, HCI",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Design",
-          "value": "Interaction Design, UX, Branding"
+          "value": "Interaction Design, UX, Branding",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Creative",
-          "value": "3D Worlds, VR, Creative Coding"
+          "value": "3D Worlds, VR, Creative Coding",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Outside",
-          "value": "Dance, Drawing, Travel"
+          "value": "Dance, Drawing, Travel",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     },
     {
-      "title": "- Tech Stack",
-      "fields": [
-        {
-          "key": "Frontend",
-          "value": "React, TypeScript, JavaScript"
-        },
-        {
-          "key": "Design",
-          "value": "Figma, Procreate"
-        },
-        {
-          "key": "3D",
-          "value": "Blender, Unity"
-        },
-        {
-          "key": "Other",
-          "value": "HTML, CSS, Tailwind"
-        }
-      ]
-    },
-    {
-      "title": "- Contact",
-      "fields": [
-        {
-          "key": "Portfolio",
-          "value": "anagha166.github.io/Portfolio"
-        },
-        {
-          "key": "LinkedIn",
-          "value": "anagha-k-b00117266"
-        },
-        {
-          "key": "Email",
-          "value": "ankamath@ucsd.edu"
-        }
-      ]
-    },{
-      "title": "- Selected Projects",
+      "title": "- Projects",
+      "titleColor": {
+        "text": "#7356A5, #C5A8FF",
+        "line": "#8E74B8, #8D78AD"
+      },
       "fields": [
         {
           "key": "Study Buddy",
-          "value": "Socratic Learning Chatbot"
+          "value": "Socratic Learning Chatbot",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Ondigo",
-          "value": "Travel Planning · Product Design"
+          "value": "Travel Planning · Product Design",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Stack",
+          "value": "React, TS, Figma, Procreate, Blender, Unity",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Portfolio",
+          "value": "anagha166.github.io/Portfolio",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Contact",
+          "value": "ankamath@ucsd.edu · anagha-k-b00117266",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": {
+      "text": "#7356A5, #C5A8FF",
+      "line": "#8E74B8, #8D78AD"
+    },
     "rows": [
       {
         "left": {
