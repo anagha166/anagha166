@@ -1,11 +1,11 @@
 
 {
-  "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/Dlab Headshot.heic",
+  "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/profilepic.jpg",
   "coloredImage": true,
-  "imageScale": 1,
+  "imageScale": 0.8,
   "removeBackground": false,
-  "backgroundColor": "#F7F5FF, #151522"
-}
+  "backgroundColor": "#F7F5FF, #151522",
+  "sections": [
     {
       "title": "{{username}}@github",
       "titleColor": {
@@ -151,8 +151,7 @@
           "key": "Commits",
           "value": "{{commits}}"
         }
-      },
-      "loc"
+      }
     ]
   }
 }
