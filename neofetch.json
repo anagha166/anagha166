@@ -23,7 +23,7 @@
         },
         {
           "key": "Education",
-          "value": "UC San Diego · Math-CS"
+          "value": "UC San Diego · Math-CS + Cognitive Science"
         },
         {
           "key": "Minor",
@@ -31,7 +31,7 @@
         },
         {
           "key": "Focus",
-          "value": "HCI, UX, AI & Product Design"
+          "value": "HCI, UX & Product Design"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "fields": [
         {
           "key": "HCI Research",
-          "value": "Design Lab · UCSD"
+          "value": "The Design Lab · UCSD"
         },
         {
           "key": "UX & Marketing",
@@ -49,23 +49,6 @@
         {
           "key": "3D / VR",
           "value": "Systems Neuroscience Lab"
-        },
-        {
-          "key": "UX Design",
-          "value": "ASCENDtials"
-        }
-      ]
-    },
-    {
-      "title": "- Selected Projects",
-      "fields": [
-        {
-          "key": "Study Buddy",
-          "value": "Socratic Learning Chatbot"
-        },
-        {
-          "key": "Ondigo",
-          "value": "Travel Planning · Product Design"
         }
       ]
     },
@@ -86,7 +69,7 @@
         },
         {
           "key": "Outside",
-          "value": "Dance, Travel, Exploring"
+          "value": "Dance, Drawing, Travel"
         }
       ]
     },
@@ -125,6 +108,18 @@
         {
           "key": "Email",
           "value": "ankamath@ucsd.edu"
+        }
+      ]
+    },{
+      "title": "- Selected Projects",
+      "fields": [
+        {
+          "key": "Study Buddy",
+          "value": "Socratic Learning Chatbot"
+        },
+        {
+          "key": "Ondigo",
+          "value": "Travel Planning · Product Design"
         }
       ]
     }
