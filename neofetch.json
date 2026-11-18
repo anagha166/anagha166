@@ -1,9 +1,9 @@
 {
   "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/profilepic.png",
   "coloredImage": true,
-  "imageScale": 1.1,
-  "imageOffsetX": 1,
-  "imageOffsetY": 1,
+  "imageScale": 1.45,
+  "imageOffsetX": 3,
+  "imageOffsetY": 5,
   "removeBackground": false,
   "backgroundColor": "#F7F5FF, #151522",
   "separatorColor": "#8E74B8, #8D78AD",
@@ -73,8 +73,20 @@
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Creative",
-          "value": "Sketching, Dance, Travel",
+          "key": "Sketching",
+          "value": "Drawing",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Dance",
+          "value": "Dancing",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Travel",
+          "value": "Traveling",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
