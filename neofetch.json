@@ -1,9 +1,7 @@
 {
   "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/profilepic.png",
   "coloredImage": true,
-  "imageScale": 1.15,
-  "imageOffsetX": 2,
-  "imageOffsetY": 2,
+  "imageScale": 0.8,
   "removeBackground": false,
   "backgroundColor": "#F7F5FF, #151522",
   "separatorColor": "#8E74B8, #8D78AD",
@@ -34,26 +32,20 @@
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Focus",
-          "value": "HCI, UX & Product Design",
+          "key": "Into",
+          "value": "UX, HCI & Creative Technology",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "HCI Research",
+          "key": "Research",
           "value": "The Design Lab · UCSD",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "UX & Marketing",
-          "value": "Data Science Student Society",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "3D / VR",
-          "value": "Systems Neuroscience Lab",
+          "key": "Creative",
+          "value": "Design & Marketing · Data Science Society",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
@@ -67,38 +59,38 @@
       },
       "fields": [
         {
-          "key": "Research",
-          "value": "Human-Centered AI, HCI",
+          "key": "Design",
+          "value": "UX, Interaction Design, Branding",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Design",
-          "value": "Interaction Design, UX, Branding",
+          "key": "Research",
+          "value": "Human-Centered AI, HCI, Psychology",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Creative",
-          "value": "3D, VR, Coding, Dance, Travel",
+          "value": "Visual Storytelling, Dance, Photography",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Usually",
+          "value": "Cafe hopping, traveling, collecting inspo",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     },
     {
-      "title": "- Projects",
+      "title": "- Currently Building",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
         "line": "#8E74B8, #8D78AD"
       },
       "fields": [
-        {
-          "key": "Study Buddy",
-          "value": "Socratic Learning Chatbot",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
         {
           "key": "Ondigo",
           "value": "Travel Planning · Product Design",
@@ -106,14 +98,26 @@
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
+          "key": "Exploring",
+          "value": "Better digital experiences & interactions",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
           "key": "Stack",
-          "value": "React, TS, Figma, Blender, Unity",
+          "value": "React, TypeScript, Figma, Python",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Portfolio",
+          "value": "anagha166.github.io/Portfolio",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Email",
-          "value": "ankamath@ucsd.edu · anagha166.github.io/Portfolio",
+          "value": "ankamath@ucsd.edu",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
@@ -121,7 +125,7 @@
     }
   ],
   "stats": {
-    "title": "- GitHub Stats",
+    "title": "- Dev Activity",
     "titleColor": {
       "text": "#7356A5, #C5A8FF",
       "line": "#8E74B8, #8D78AD"
@@ -129,24 +133,15 @@
     "rows": [
       {
         "left": {
-          "key": "Repos",
+          "key": "Repositories",
           "value": "{{repos}}"
-        },
-        "right": {
-          "key": "Stars",
-          "value": "{{stars}}"
-        }
-      },
-      {
-        "left": {
-          "key": "Followers",
-          "value": "{{followers}}"
         },
         "right": {
           "key": "Commits",
           "value": "{{commits}}"
         }
-      }
+      },
+      "loc"
     ]
   }
 }
