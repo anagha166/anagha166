@@ -22,65 +22,47 @@
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Location",
-          "value": "{{location}}",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
           "key": "Education",
-          "value": "UC San Diego · Math-CS + Cognitive Science",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Into",
-          "value": "UX, HCI & Creative Technology",
+          "value": "Math-CS + Cognitive Science @ UCSD",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Research",
-          "value": "The Design Lab · UCSD",
+          "value": "HCI · UCSD Design Lab",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Creative",
-          "value": "UX Design & Marketing · Data Science Society",
+          "key": "Interests",
+          "value": "UX Design · Product · Creative Strategy",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Community",
+          "value": "Design & Marketing · Data Science Society",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     },
     {
-      "title": "- outside the interface",
+      "title": "- off the clock",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
         "line": "#8E74B8, #8D78AD"
       },
       "fields": [
         {
-          "key": "Art",
-          "value": "Oil painting, sculpture, graphic design",
+          "key": "Making",
+          "value": "Dance, Oil painting · Sculpture · Graphic design",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Drawing",
-          "value": "Visual Exploration",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Also",
-          "value": "Dance & Travel",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Always",
-          "value": "Collecting inspiration",
+          "key": "Exploring",
+          "value": "Cafe hopping · Travel · New places",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
@@ -100,13 +82,13 @@
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Code",
+          "key": "Development",
           "value": "React · TypeScript · HTML/CSS",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Build",
+          "key": "Other",
           "value": "Python · Unity · Blender",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
@@ -114,7 +96,7 @@
       ]
     },
     {
-      "title": "- Find Me",
+      "title": "- find me",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
         "line": "#8E74B8, #8D78AD"
@@ -128,7 +110,7 @@
         },
         {
           "key": "LinkedIn",
-          "value": "https://www.linkedin.com/in/anagha-kamath/",
+          "value": "linkedin.com/in/anagha-kamath",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
@@ -142,6 +124,23 @@
     }
   ],
   "stats": {
-    "enabled": false
+    "title": "- Dev Activity",
+    "titleColor": {
+      "text": "#7356A5, #C5A8FF",
+      "line": "#8E74B8, #8D78AD"
+    },
+    "rows": [
+      {
+        "left": {
+          "key": "Repositories",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        }
+      },
+      "loc"
+    ]
   }
 }
