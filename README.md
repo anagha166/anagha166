@@ -1,6 +1,3 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=anagha166)
-
-
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
