@@ -54,7 +54,40 @@
       ]
     },
     {
-      "title": "- Interests",
+      "title": "- outside the interface",
+      "titleColor": {
+        "text": "#7356A5, #C5A8FF",
+        "line": "#8E74B8, #8D78AD"
+      },
+      "fields": [
+        {
+          "key": "Art",
+          "value": "Oil painting, sculpture, graphic design",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Drawing",
+          "value": "Visual Exploration",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Also",
+          "value": "Dance & Travel",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        },
+        {
+          "key": "Always",
+          "value": "Collecting inspiration",
+          "keyColor": "#5C3D8F, #C5A8FF",
+          "valueColor": "#2C2440, #F4F0FF"
+        }
+      ]
+    },
+    {
+      "title": "- toolkit",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
         "line": "#8E74B8, #8D78AD"
@@ -62,37 +95,19 @@
       "fields": [
         {
           "key": "Design",
-          "value": "UX, Interaction Design, Branding",
+          "value": "Figma · Adobe Creative Suite",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Research",
-          "value": "Human-Centered AI, HCI, Psychology",
+          "key": "Code",
+          "value": "React · TypeScript · HTML/CSS",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Sketching",
-          "value": "Drawing",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Dance",
-          "value": "Dancing",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Travel",
-          "value": "Traveling",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Usually",
-          "value": "Cafe hopping, collecting inspo",
+          "key": "Build",
+          "value": "Python · Unity · Blender",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
@@ -127,23 +142,6 @@
     }
   ],
   "stats": {
-    "title": "- Dev Activity",
-    "titleColor": {
-      "text": "#7356A5, #C5A8FF",
-      "line": "#8E74B8, #8D78AD"
-    },
-    "rows": [
-      {
-        "left": {
-          "key": "Repositories",
-          "value": "{{repos}}"
-        },
-        "right": {
-          "key": "Commits",
-          "value": "{{commits}}"
-        }
-      },
-      "loc"
-    ]
+    "enabled": false
   }
 }
