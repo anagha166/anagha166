@@ -1,7 +1,9 @@
 {
   "image": "https://raw.githubusercontent.com/anagha166/anagha166/main/profilepic.png",
   "coloredImage": true,
-  "imageScale": 0.8,
+  "imageScale": 1.1,
+  "imageOffsetX": 1,
+  "imageOffsetY": 1,
   "removeBackground": false,
   "backgroundColor": "#F7F5FF, #151522",
   "separatorColor": "#8E74B8, #8D78AD",
