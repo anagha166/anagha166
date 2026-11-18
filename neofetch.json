@@ -80,13 +80,7 @@
         },
         {
           "key": "Creative",
-          "value": "3D Worlds, VR, Creative Coding",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Outside",
-          "value": "Dance, Drawing, Travel",
+          "value": "3D, VR, Coding, Dance, Travel",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
@@ -113,19 +107,13 @@
         },
         {
           "key": "Stack",
-          "value": "React, TS, Figma, Procreate, Blender, Unity",
+          "value": "React, TS, Figma, Blender, Unity",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
-          "key": "Portfolio",
-          "value": "anagha166.github.io/Portfolio",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Contact",
-          "value": "ankamath@ucsd.edu · anagha-k-b00117266",
+          "key": "Email",
+          "value": "ankamath@ucsd.edu · anagha166.github.io/Portfolio",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
