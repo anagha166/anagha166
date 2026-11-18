@@ -1,0 +1,155 @@
+
+{
+  "backgroundColor": "#F7F5FF, #151522",
+  "separatorColor": "#D8D0EB, #45405C",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#7356A5, #C5A8FF",
+        "line": "#B8A5D6, #655580"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Anagha Kamath"
+        },
+        {
+          "key": "Location",
+          "value": "{{location}}"
+        },
+        {
+          "key": "Education",
+          "value": "UC San Diego · Math-CS"
+        },
+        {
+          "key": "Minor",
+          "value": "Cognitive Science"
+        },
+        {
+          "key": "Focus",
+          "value": "HCI, UX, AI & Product Design"
+        }
+      ]
+    },
+    {
+      "title": "- Experience",
+      "fields": [
+        {
+          "key": "HCI Research",
+          "value": "Design Lab · UCSD"
+        },
+        {
+          "key": "UX & Marketing",
+          "value": "Data Science Student Society"
+        },
+        {
+          "key": "3D / VR",
+          "value": "Systems Neuroscience Lab"
+        },
+        {
+          "key": "UX Design",
+          "value": "ASCENDtials"
+        }
+      ]
+    },
+    {
+      "title": "- Selected Projects",
+      "fields": [
+        {
+          "key": "Study Buddy",
+          "value": "Socratic Learning Chatbot"
+        },
+        {
+          "key": "Ondigo",
+          "value": "Travel Planning · Product Design"
+        }
+      ]
+    },
+    {
+      "title": "- Interests",
+      "fields": [
+        {
+          "key": "Research",
+          "value": "Human-Centered AI, HCI"
+        },
+        {
+          "key": "Design",
+          "value": "Interaction Design, UX, Branding"
+        },
+        {
+          "key": "Creative",
+          "value": "3D Worlds, VR, Creative Coding"
+        },
+        {
+          "key": "Outside",
+          "value": "Dance, Travel, Exploring"
+        }
+      ]
+    },
+    {
+      "title": "- Tech Stack",
+      "fields": [
+        {
+          "key": "Frontend",
+          "value": "React, TypeScript, JavaScript"
+        },
+        {
+          "key": "Design",
+          "value": "Figma, Procreate"
+        },
+        {
+          "key": "3D",
+          "value": "Blender, Unity"
+        },
+        {
+          "key": "Other",
+          "value": "HTML, CSS, Tailwind"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "Portfolio",
+          "value": "anagha166.github.io/Portfolio"
+        },
+        {
+          "key": "LinkedIn",
+          "value": "anagha-k-b00117266"
+        },
+        {
+          "key": "Email",
+          "value": "ankamath@ucsd.edu"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        },
+        "right": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        }
+      },
+      "loc"
+    ]
+  }
+}
