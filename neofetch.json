@@ -72,43 +72,25 @@
         },
         {
           "key": "Creative",
-          "value": "Visual Storytelling, Dance, Photography",
+          "value": "Sketching, Dance, Travel",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         },
         {
           "key": "Usually",
-          "value": "Cafe hopping, traveling, collecting inspo",
+          "value": "Cafe hopping, collecting inspo",
           "keyColor": "#5C3D8F, #C5A8FF",
           "valueColor": "#2C2440, #F4F0FF"
         }
       ]
     },
     {
-      "title": "- Currently Building",
+      "title": "- Find Me",
       "titleColor": {
         "text": "#7356A5, #C5A8FF",
         "line": "#8E74B8, #8D78AD"
       },
       "fields": [
-        {
-          "key": "Ondigo",
-          "value": "Travel Planning · Product Design",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Exploring",
-          "value": "Better digital experiences & interactions",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
-        {
-          "key": "Stack",
-          "value": "React, TypeScript, Figma, Python",
-          "keyColor": "#5C3D8F, #C5A8FF",
-          "valueColor": "#2C2440, #F4F0FF"
-        },
         {
           "key": "Portfolio",
           "value": "anagha166.github.io/Portfolio",
